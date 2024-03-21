@@ -12,9 +12,6 @@ public final class ErrorCodeConstant {
     public static final String ERR_106 = "ERR_106";
 
     public static final String ERR_107 = "ERR_107";
-
-    public static final String ERR_108 = "ERR_108";
-
-    public static final String ERR_109 = "ERR_109";
+    
 
 }
